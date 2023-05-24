@@ -100,10 +100,13 @@ header {
     }
 
 }
+.publicidad div{
+    
+    padding-bottom: 3em;
+}
 
 
-
-footer {
+footer  {
 
     background-color: orangered;
 
